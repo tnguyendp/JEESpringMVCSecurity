@@ -1,0 +1,11 @@
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/config/ApplicationContextConfig.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/config/SpringWebAppInitializer.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/dao/impl/UserInfoDAOImpl.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/dao/UserInfoDAO.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/config/WebSecurityConfig.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/config/WebMvcConfig.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/config/SpringSecurityInitializer.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/controller/MainController.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/model/UserInfo.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/mapper/UserInfoMapper.java
+/Users/DNguyen/Documents/workspace/MC/SpringMVCSecurityAnnotation/src/main/java/com/nguyen/SpringMVCSecurity/authentication/MyDBAuthenticationService.java
